@@ -1,6 +1,6 @@
  # RELATIONAL DATABASE SERVICE CREATION IN AMAZON
-  ## AIM
-       To Relational Database Service Creation in Amazon.
+## AIM
+To Relational Database Service Creation in Amazon.
 ## PROBLEM STATEMENT
 The experiment aims to demonstrate the creation of an Amazon RDS instance for hosting a relational database in the cloud. This includes configuring database settings, connecting to the instance, and testing database functionality using SQL commands.
 ## ALGORITHM
